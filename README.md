@@ -1,10 +1,10 @@
-# herdr-tui
+#  herdr-tui
 
-Herdr TUI setup. Prefix is `ctrl+a`. Theme is Catppuccin. Tested with Herdr 0.9.5.
+Personal Herdr TUI setup.
 
 This repo is the shareable copy. Herdr still reads `~/.config/herdr`. Do not set `HERDR_CONFIG_PATH`.
 
-Not included: SSH machines, logs, session snapshots, plugin checkouts, and the local `herdr-tsk` plugin.
+Not included: SSH machines, logs, session snapshots, plugin checkouts.
 
 ## New machine
 
