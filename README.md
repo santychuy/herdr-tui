@@ -2,14 +2,12 @@
 
 Personal Herdr TUI setup.
 
-This repo is the shareable copy. Herdr still reads `~/.config/herdr`. Do not set `HERDR_CONFIG_PATH`.
-
-Not included: SSH machines, logs, session snapshots, plugin checkouts.
-
 <p align="center">
   <img src="preview.png" alt="Herdr TUI" width="900">
 </p>
 
+This repo is the shareable copy. Herdr still reads `~/.config/herdr`. Do not set `HERDR_CONFIG_PATH`.
+> Not included: SSH machines, logs, session snapshots, plugin checkouts.
 
 ## Plugins
 
