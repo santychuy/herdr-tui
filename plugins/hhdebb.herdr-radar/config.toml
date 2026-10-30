@@ -1,0 +1,6 @@
+reorder_workspaces = true
+variant = "font"
+row_label = "tab"
+split_corner = false
+group_indent = 2
+group_gap = false

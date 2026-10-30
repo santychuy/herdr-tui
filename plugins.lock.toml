@@ -1,0 +1,44 @@
+[[plugin]]
+id = "dave.token-dashboard"
+source = "Davidcreador/herdr-token-dashboard"
+ref = "03872156075a50125aa5adffdd485d89fe965dfa"
+
+[[plugin]]
+id = "herdr-bar"
+source = "jeffarese/herdr-bar"
+ref = "261de9b0441a6972941414bbf16eb4f5df27ac34"
+
+[[plugin]]
+id = "herdr-file-viewer"
+source = "smarzban/herdr-file-viewer"
+ref = "97ba479f6ecd577ca5acaad2f32983c852355f9f"
+
+[[plugin]]
+id = "herdr-projects"
+source = "eliasstravik/herdr-projects"
+ref = "4aeaaba466b6ee8d534cee272c32b47c73fd0df4"
+
+[[plugin]]
+id = "hhdebb.herdr-radar"
+source = "hhdebb/herdr-radar"
+ref = "3e72fe2c22a30c983fc68f11144a94a9ae442f17"
+
+[[plugin]]
+id = "nicosuave.memex"
+source = "nicosuave/memex"
+ref = "66e9dfee2b30bf39d2e95ae8ab991c1ddb3551a6"
+
+[[plugin]]
+id = "persiyanov.reviewr"
+source = "persiyanov/herdr-reviewr"
+ref = "a253b1bfe4b34182af3204b7fcc42ccfed1b87d9"
+
+[[plugin]]
+id = "ttt.editor"
+source = "eugenioenko/ttt/herdr-plugin"
+ref = "ca3c4c64181518f0ea7d0101b907880b685258aa"
+
+[[plugin]]
+id = "worktrunk"
+source = "devashish2203/herdr-worktrunk"
+ref = "f9df9ba700b8a4f4d97ddfe3ea3eb345e80b880b"
